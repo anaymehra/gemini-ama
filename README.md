@@ -1,4 +1,4 @@
-# Gemini Wrapper API
+# Gemini Wrapper APP - ASK ME ANYTHING
 
 ## Overview
 This project provides a web-based interface that utilizes the Gemini API to offer an interactive ask-me-anything (AMA) experience. Users can input prompts or questions, and the application processes these queries through the Gemini API, delivering generated responses. Essentially, it serves as a wrapper around the Gemini API, streamlining its integration and presenting a user-friendly platform.
